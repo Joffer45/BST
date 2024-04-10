@@ -1,0 +1,23 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ font-family: 'poppins', sans-serif;
+ }
+ html,body{
+    display: grid;
+    height:100%;
+    place-items: center;
+    tet-align: center;
+    background: #f0efef
+}
+.container{
+    width: 400px;
+    background: #c51257;
+    padding: 20px 30px;
+    border: 1px solid #444;
+    border-items: center;
+    justify-content:center;
+    flex-direction:column;
+}
+.container
